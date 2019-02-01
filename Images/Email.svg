@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_5);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Artboard_5">
+      <rect width="100" height="100"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_5" data-name="Artboard – 5" class="cls-1">
+    <rect class="cls-2" width="100" height="100"/>
+    <g id="icon-email-2" transform="translate(27.074 33.87)">
+      <g id="Group_62" data-name="Group 62" transform="translate(0)">
+        <path id="Path_9" data-name="Path 9" d="M11.426,977.362l19.547,19.991a1.062,1.062,0,0,0,1.2,0l19.547-19.991h-40.3ZM9,979.95v26.431L22.456,993.7Zm45.152,0L40.7,993.7l13.456,12.682Zm-29.2,16.317-13.473,12.7h40.2L38.2,996.267l-3.837,3.911a3.774,3.774,0,0,1-5.575,0l-3.837-3.911Z" transform="translate(-9 -977.362)"/>
+      </g>
+    </g>
+  </g>
+</svg>

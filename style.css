@@ -1,0 +1,219 @@
+#sidebar-container {
+    background: #ffea89;
+    height: 100%;
+    position: fixed;
+    padding: 60px;
+    width: 300px; 
+}
+
+.section-logo {
+    height:100px;
+}
+
+nav {
+    top: 0;
+}
+  
+nav a,
+nav h2 {
+    display: block;
+    position: relative;
+    text-decoration: none;
+
+}
+
+.DoEd{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.sidebar-logo {
+    : center;
+}
+
+.styleguidetitle{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Julius Sans One', sans-serif;
+    color: de5132;
+    text-align: center
+}
+
+#subtitle {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    color: #de5132;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+h2{
+    font-weight: bold;
+    color: #de5132;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.font-h1{
+    font-size: 55px;
+}
+
+.font-h2{
+    font-size: 45px;
+}
+
+.font-h3{
+    font-size: 30px;
+}
+
+.font-h4{
+    font-size: 23px;
+}
+
+.font-h5 {
+    font-size: 20px;
+}
+
+.font-h6 {
+    font-size: 18px;
+}
+
+#subtitle-colors {
+    font-size: 18px;
+    text-decoration-line: underline;
+    color: black
+}
+
+.PTSans{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.Julius {
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.fontH5{
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 13px;
+}
+
+.anchorlinks {
+    font-size: 16px;
+    color: black;
+    text-align: center;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
+.anchorlinks:hover {
+    color: #de5132;
+    font-weight: bold; 
+}
+
+#Guidelines{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#Logo{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.orangecolor{
+    color: #de5132;
+}
+.section-container {
+    margin-top: 40px;
+    margin-left: 290px;
+    padding: 30px 30px;
+    height: 100%;
+}
+
+.content-container {  
+   margin: 0 auto;
+   max-width: 850px;
+}
+
+.row-container-no-wrap {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.row-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+
+.colorbox1{
+    height: 100px;
+    width: 100px;
+    background: #de5132;
+    text-align: center;
+}
+
+.colorbox2{
+    height: 100px;
+    width: 100px;
+    background: #ffea89;
+    text-align: center;
+}
+
+.colorbox3{
+    height: 100px;
+    width: 100px;
+    background: #ffc07b;
+    text-align: center;
+}
+
+.colorbox4{
+    height: 100px;
+    width: 100px;
+    background: #ffd100;
+    text-align: center;
+}
+
+.colorbox5{
+    height: 100px;
+    width: 100px;
+    background: #ff8b43;
+    text-align: center;
+}
+
+.colorbox6{
+    height: 100px;
+    width: 100px;
+    background: #000000;
+    text-align: center;
+    color: white;
+}
+
+
+.row-container-around {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 10px;
+
+}
+
+.imagery {
+    width: 100%;
+}
+
+.footer-image {
+    width: 50px;
+    top: 50%;
+    left: 50%;
+}

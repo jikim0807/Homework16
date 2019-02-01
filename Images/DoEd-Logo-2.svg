@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 995 217">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_2);
+      }
+
+      .cls-2 {
+        fill: #ffc07b;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #de5132;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #ffc07b;
+        stroke-width: 5px;
+      }
+
+      .cls-5 {
+        stroke: #de5132;
+        font-size: 45px;
+        font-family: JuliusSansOne-Regular, Julius Sans One;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Artboard_2">
+      <rect width="995" height="217"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_2" data-name="Artboard – 2" class="cls-1">
+    <rect class="cls-6" width="995" height="217"/>
+    <g id="Group_88" data-name="Group 88" transform="translate(-3472 16)">
+      <g id="noun_School_2110140" transform="translate(3546.542 28)">
+        <g id="Group_87" data-name="Group 87" transform="translate(0 0)">
+          <path id="Path_49" data-name="Path 49" class="cls-2" d="M116.6,268.225v54.8h16.836V265.1h-13.71A3.121,3.121,0,0,0,116.6,268.225Z" transform="translate(-116.6 -199.591)"/>
+          <path id="Path_50" data-name="Path 50" class="cls-2" d="M369.293,265.1H356v57.925h16.377v-54.8A3.06,3.06,0,0,0,369.293,265.1Z" transform="translate(-256.236 -199.591)"/>
+          <path id="Path_51" data-name="Path 51" class="cls-2" d="M255.251,132.778v-5.417h16.586a3.148,3.148,0,0,0,3.125-3.125v-13.21a3.148,3.148,0,0,0-3.125-3.125H252.125A3.148,3.148,0,0,0,249,111.025v21.753a5.575,5.575,0,0,1,6.251,0Z" transform="translate(-193.826 -107.9)"/>
+          <path id="Path_52" data-name="Path 52" class="cls-3" d="M239.594,196.733l-35.838-24.92a3.135,3.135,0,0,0-3.584,0l-35.838,24.92A3.142,3.142,0,0,0,163,199.316v68.968h23.545V240.655a15.618,15.618,0,0,1,15.044-15.71,15.442,15.442,0,0,1,15.794,15.419v27.921h23.545V199.316A3.142,3.142,0,0,0,239.594,196.733Zm-37.63,16.627a12.752,12.752,0,1,1,12.752-12.752A12.752,12.752,0,0,1,201.964,213.36Z" transform="translate(-143.664 -144.851)"/>
+        </g>
+      </g>
+      <path id="Path_53" data-name="Path 53" class="cls-4" d="M0,0H116.266" transform="translate(3546.5 156.976)"/>
+    </g>
+    <text id="US_Department_of_Education" data-name="US Department of Education" class="cls-5" transform="translate(212 122)"><tspan x="0" y="39">US Department of Education</tspan></text>
+  </g>
+</svg>

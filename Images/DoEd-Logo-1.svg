@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 233 209">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Artboard_3);
+      }
+
+      .cls-2 {
+        fill: #ffc07b;
+      }
+
+      .cls-3 {
+        fill: #de5132;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #ffc07b;
+        stroke-width: 5px;
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Artboard_3">
+      <rect width="233" height="209"/>
+    </clipPath>
+  </defs>
+  <g id="Artboard_3" data-name="Artboard – 3" class="cls-1">
+    <rect class="cls-5" width="233" height="209"/>
+    <g id="Group_88" data-name="Group 88" transform="translate(-3506 -8)">
+      <g id="noun_School_2110140" transform="translate(3546.555 28)">
+        <g id="Group_87" data-name="Group 87" transform="translate(0 0)">
+          <path id="Path_49" data-name="Path 49" class="cls-2" d="M116.6,269.2V341h22.06V265.1H120.7A4.09,4.09,0,0,0,116.6,269.2Z" transform="translate(-116.6 -179.262)"/>
+          <path id="Path_50" data-name="Path 50" class="cls-2" d="M373.419,265.1H356V341h21.459V269.2A4.01,4.01,0,0,0,373.419,265.1Z" transform="translate(-225.277 -179.262)"/>
+          <path id="Path_51" data-name="Path 51" class="cls-2" d="M257.191,140.5v-7.1h21.733a4.125,4.125,0,0,0,4.1-4.1V112a4.125,4.125,0,0,0-4.1-4.1H253.1A4.125,4.125,0,0,0,249,112v28.5a7.305,7.305,0,0,1,8.191,0Z" transform="translate(-176.704 -107.9)"/>
+          <path id="Path_52" data-name="Path 52" class="cls-3" d="M263.363,204.64,216.4,171.987a4.108,4.108,0,0,0-4.7,0l-46.96,32.653A4.117,4.117,0,0,0,163,208.026V298.4h30.851v-36.2a20.464,20.464,0,0,1,19.712-20.586,20.234,20.234,0,0,1,20.7,20.2V298.4H265.11v-90.37A4.117,4.117,0,0,0,263.363,204.64Zm-49.308,21.787a16.709,16.709,0,1,1,16.709-16.709A16.709,16.709,0,0,1,214.055,226.428Z" transform="translate(-137.664 -136.658)"/>
+        </g>
+      </g>
+      <path id="Path_53" data-name="Path 53" class="cls-4" d="M0,0H152.346" transform="translate(3546.5 197)"/>
+    </g>
+  </g>
+</svg>
